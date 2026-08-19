@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream_repository": "https://github.com/FreeCAD/FreeCAD.git",
+  "upstream_branch": "main",
+  "upstream_commit": "bcf8b5156b29bcdd53b1617a8b0c96e46be6d745",
+  "recorded_date": "2026-08-19",
+  "downstream_repository": "https://github.com/akalari/cad-x.git"
+}

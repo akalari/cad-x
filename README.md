@@ -9,6 +9,10 @@
 [Git repository](https://github.com/FreeCAD/FreeCAD) •
 [Blog](https://blog.freecad.org)
 
+> [!NOTE]
+> This repository is the maintained cad-x downstream fork. See the
+> [upstream synchronization and licensing policy](docs/cadx/upstream-and-licensing.md).
+> cad-x product development has not started in this documentation-only pull request.
 
 [![Release](https://img.shields.io/github/release/freecad/freecad.svg)](https://github.com/freecad/freecad/releases/latest) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/freecad/localized.svg)](https://crowdin.com/project/freecad)
 
